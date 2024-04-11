@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Neelalohith R Kashyap</h1>
 <h3 align="center">A PES University undergrad student who aspires to become a Software Engineer with an interest in Machine Learning, Deep Learning, and App Development.</h3>
 
@@ -29,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelalohith&show_icons=true&locale=en" alt="neelalohith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelalohith&" alt="neelalohith" /></p>
 
