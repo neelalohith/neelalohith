@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neelalohith R Kashyap</h1>
 <h3 align="center">A PES University undergrad student who aspires to become a Software Engineer with an interest in Machine Learning, Deep Learning, and App Development.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelalohith" alt="neelalohith" /></a> </p>
+
 - 🌱 I’m currently learning **IOS App Development, Artificial Intelligence and Machine Learning**
 
 - 💬 Ask me about **Android App Development, Backend Web Development, IOS App Development, Artificial Intelligence and Machine Learning**
