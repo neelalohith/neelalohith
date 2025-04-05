@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelalohith&label=Profile%20views&color=0e75b6&style=flat" alt="neelalohith" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning And AI**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Science**
 
