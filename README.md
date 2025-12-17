@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelalohith&label=Profile%20views&color=0e75b6&style=flat" alt="neelalohith" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Multi-modal Learning**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Software Engineering, Backend Development, Vision Language Models and Multi-modal Learning**
 
 - 📫 How to reach me **neelalohithhp2002@gmail.com**
 
